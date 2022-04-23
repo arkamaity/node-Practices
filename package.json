@@ -1,0 +1,30 @@
+{
+  "name": "appserver",
+  "version": "1.0.0",
+  "description": "this is app version",
+  "main": "applicationserver.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arkamaity/node-Practices.git"
+  },
+  "keywords": [
+    "node.js",
+    "html",
+    "js",
+    "css"
+  ],
+  "author": "arkamaity007.s@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arkamaity/node-Practices/issues"
+  },
+  "homepage": "https://github.com/arkamaity/node-Practices#readme",
+  "dependencies": {
+    "-": "0.0.1",
+    "g": "^2.0.1",
+    "npm": "^8.7.0"
+  }
+}
