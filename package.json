@@ -2,9 +2,9 @@
   "name": "appserver",
   "version": "1.0.0",
   "description": "this is app version",
-  "main": "applicationserver.js",
+  "main": "application.js",
   "scripts": {
-    "dev": "node applicationserver.js"
+    "dev": "node application.js"
   },
   "repository": {
     "type": "git",
